@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+section {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
